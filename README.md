@@ -1,0 +1,2 @@
+# NibbleCoin
+A blockchain project
